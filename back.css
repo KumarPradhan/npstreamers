@@ -1,0 +1,102 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header
+{height: auto;
+font-size: 15px;
+background-color:yellow;
+font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:black;
+}
+.nav{height: 50px;
+		padding: 25px;
+	font-size: 20px;
+	color:black;
+	background-color:red;
+}
+.nav a{
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, "sans-serif";
+	text-decoration:black;
+	padding: 25px;
+	color:azure;
+	
+}
+.nav a:hover
+{
+
+	background-color:black;
+}
+
+.body{
+	color:black;
+	font-family:arizonia;
+	background-color: white;
+	font-size: 30px;
+}
+.text{
+	font-size: 25px;
+}
+
+.musicgif{
+	background-color:white;
+	font-size: 20px;
+	color:black;
+}
+.head{
+	
+	background-color: black;
+}
+.artists
+{font-size: 20px;
+	background-color:white;
+}
+
+.footer
+{height: 80px;
+	background-color:black;
+	color:white;
+	font-size: 22px;
+}
+.Last{
+	background-color: black;
+	height:80px;
+	color: white;
+	font-size: 19px;
+}
+.middle{
+	font-size: 18px;
+}
+.download{
+	background-color:white;
+	color: red;
+	font-size:25px;
+	font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+.chart1
+{
+font-size: 14px;
+}
+.price3{
+	height: 150px;
+	background-color:lightgoldenrodyellow;
+	color: black;
+	font-size: 18px;
+}
+.price4{
+	height: 80px;
+	background-color: lightgoldenrodyellow;
+	color: black;
+	font-size: 18px;
+}
+.price2{
+	height: 100px;
+	background-color: lightgoldenrodyellow;
+	color: black;
+	font-size: 18px;
+}
+.contact2{
+	background-color: white;
+	color:black;
+	font-size: 19px;
+	
+}
